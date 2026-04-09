@@ -1,70 +1,70 @@
-# Taiwan Online Shopping Guide 🇹🇼
+# 台灣線上購物指南 🇹🇼
 
-A comprehensive guide to Taiwan's best online shopping platforms and international brand websites.
+台灣最佳線上購物平台和國際品牌網站的全面指南。
 
-## 台湾主要购物平台
+## 台灣主要購物平台
 
-### 综合电商平台
-- **PChome** - 台湾最大的综合电商平台 [官网](https://www.pchome.com.tw/)
-- **momo购物网** - 台湾领先的B2C电商平台 [官网](https://www.momoshop.com.tw/)
-- **博客来** - 台湾最大的网络书店 [官网](https://www.books.com.tw/)
-- **Yahoo奇摩购物中心** - 台湾知名购物平台 [官网](https://tw.buy.yahoo.com/)
+### 綜合電商平台
+- **PChome** - 台灣最大的綜合電商平台 [官網](https://www.pchome.com.tw/)
+- **momo購物網** - 台灣領先的B2C電商平台 [官網](https://www.momoshop.com.tw/)
+- **博客來** - 台灣最大的網路書店 [官網](https://www.books.com.tw/)
+- **Yahoo奇摩購物中心** - 台灣知名購物平台 [官網](https://tw.buy.yahoo.com/)
 
-### 时尚购物平台
-- **MK包** - Michael Kors台湾官方购物网站 [官网](https://www.michaelkorstw.com/)
-- **salomon** - 户外运动品牌台湾官网 [官网](https://www.salomon.com.tw/)
-- **nike** - Nike台湾官方购物网站 [官网](https://www.nikeoutlettw.com/)
-- **lululemon** - 运动服饰品牌台湾官网 [官网](https://www.lululemon.com.tw/)
+### 時尚購物平台
+- **MK包** - Michael Kors台灣官方購物網站 [官網](https://www.michaelkorstw.com/)
+- **salomon** - 戶外運動品牌台灣官網 [官網](https://www.salomonbuy.com/)
+- **nike** - Nike台灣官方購物網站 [官網](https://www.nikeoutlettw.com/)
+- **lululemon** - 運動服飾品牌台灣官網 [官網](https://www.lululemontw.com/)
 
-## 国际品牌台湾官网
+## 國際品牌台灣官網
 
-### 运动品牌
-- **mizuno** - 美津浓台湾官方购物网站 [官网](https://www.mizuno-store.com/)
-- **asics** - 亚瑟士台湾官网 [官网](https://www.asics.com.tw/)
-- **hoka** - HOKA台湾官方购物网站 [官网](https://www.hoka.com.tw/)
-- **new balance** - New Balance台湾官网 [官网](https://www.newbalancetw.com/)
-- **adidas** - 阿迪达斯台湾官方购物网站 [官网](https://www.adidas.com.tw/)
-- **birkenstock** - 勃肯鞋台湾官网 [官网](https://www.birkenstock.com.tw/)
+### 運動品牌
+- **mizuno** - 美津濃台灣官方購物網站 [官網](https://www.mizuno-store.com/)
+- **asics** - 亞瑟士台灣官網 [官網](https://www.asicstaiwan.com/)
+- **hoka** - HOKA台灣官方購物網站 [官網](https://www.hokabuy.com/)
+- **new balance** - New Balance台灣官網 [官網](https://www.newbalance-mall.com/)
+- **adidas** - 阿迪達斯台灣官方購物網站 [官網](https://www.adidas-outlet.com/)
+- **birkenstock** - 勃肯鞋台灣官網 [官網](https://www.birkenstocktw.com/)
 
-### 时尚品牌
-- **dyson** - 戴森台湾官方购物网站 [官网](https://www.dyson.com.tw/)
-- **veja** - 环保鞋品牌台湾官网 [官网](https://www.veja-store.com.tw/)
+### 時尚品牌
+- **dyson** - 戴森台灣官方購物網站 [官網](https://www.dysonshop.com.tw/)
+- **veja** - 環保鞋品牌台灣官網 [官網](https://www.vejabuy.com/)
 
-## 购物指南
+## 購物指南
 
-### 如何选择
-1. **正品保证** - 建议优先选择品牌官方网站
-2. **价格比较** - 不同平台可能有不同优惠
-3. **配送服务** - 注意配送时间和运费
-4. **售后服务** - 查看退换货政策
+### 如何選擇
+1. **正品保證** - 建議優先選擇品牌官方網站
+2. **價格比較** - 不同平台可能有不同優惠
+3. **配送服務** - 注意配送時間和運費
+4. **售後服務** - 查看退換貨政策
 
 ### 支付方式
 - 信用卡支付
-- 超商取货付款
+- 超商取貨付款
 - 第三方支付（Line Pay、街口支付等）
-- ATM转账
+- ATM轉賬
 
-### 配送时间
-- 本岛：通常1-3个工作日
-- 外岛：可能需要额外时间
-- 国际配送：视品牌和平台而定
+### 配送時間
+- 本島：通常1-3個工作日
+- 外島：可能需要額外時間
+- 國際配送：視品牌和平台而定
 
-## 购物小贴士
+## 購物小貼士
 
-1. **关注促销活动** - 双11、周年庆等大型促销
-2. **使用比价工具** - 比较不同平台价格
-3. **查看用户评价** - 了解商品真实反馈
-4. **注意退换货政策** - 保留购物凭证
+1. **關注促銷活動** - 雙11、週年慶等大型促銷
+2. **使用比價工具** - 比較不同平台價格
+3. **查看用戶評價** - 了解商品真實反饋
+4. **注意退換貨政策** - 保留購物憑證
 
-## 贡献指南
+## 貢獻指南
 
-欢迎提交台湾优质购物平台和品牌官网链接！
+歡迎提交台灣優質購物平台和品牌官網連結！
 
-## 许可证
+## 許可證
 
-本项目内容基于 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可证。
+本項目內容基於 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 許可證。
 
 ---
 
-*最后更新：2026年4月9日*
-*本指南旨在帮助用户找到台湾正规的购物渠道，所有链接均为品牌官方或授权经销商网站。*
+*最後更新：2026年4月9日*
+*本指南旨在幫助用戶找到台灣正規的購物渠道，所有連結均為品牌官方或授權經銷商網站。*
